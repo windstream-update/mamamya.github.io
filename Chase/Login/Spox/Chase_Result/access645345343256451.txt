@@ -1,0 +1,22 @@
+#---------------------------[ -CHASE-SPOX- Email Access ]----------------------------#
+Email	: MichaelRegalado@yahoo.com
+Password: ggdjdjdjfjjfj
+#---------------------------[ -CHASE-SPOX- IP INFO ]----------------------------#
+IP ADDRESS	: 104.194.218.212
+IP COUNTRY	: United States
+IP CITY	: Washington D.C.
+BROWSER		: Chrome on Windows 10
+USER AGENT	: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36 OPR/67.0.3575.115
+TIME		: 07/04/2020 01:45:07pm GMT
+#---------------------------[ -CHASE-SPOX- Email Access ]----------------------------#
+#---------------------------[ -CHASE-SPOX- Email Access ]----------------------------#
+Email	: tuenti1911@hotmail.com
+Password: @@@@@
+#---------------------------[ -CHASE-SPOX- IP INFO ]----------------------------#
+IP ADDRESS	: 190.78.227.181
+IP COUNTRY	: Venezuela
+IP CITY	: Ciudad Guayana
+BROWSER		: Chrome on Windows 8.1
+USER AGENT	: Mozilla/5.0 (Windows NT 6.3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
+TIME		: 08/04/2020 10:17:51pm GMT
+#---------------------------[ -CHASE-SPOX- Email Access ]----------------------------#
